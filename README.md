@@ -1,2 +1,2 @@
 # modal-window
-# manipulating css styles using javaScript
+# manipulating css styles using JavaScript
